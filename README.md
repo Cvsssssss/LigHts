@@ -41,7 +41,7 @@ def toggle_light(lights, row, col, grid_size):
     if col < grid_size - 1:
         lights[row][col + 1] = 1 - lights[row][col + 1]
 ```
-This function ensures that clicking on one light affects its surrounding neighbors, making the puzzle more complex and interesting.
+This function ensures that clicking on one light affects its surrounding neighbors.
 
 ---
 
