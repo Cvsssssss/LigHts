@@ -83,4 +83,12 @@ python game.py
 
 ---
 
+## 📜 License  
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+This means you are free to use, modify, and share this project, but **commercial use is prohibited without the author's permission**.  
+
+🔗 More details: [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
 Enjoy the game and happy coding! 
