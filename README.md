@@ -1,4 +1,4 @@
-# 🎮 Lights Game
+#  Lights Game
 
 ## About the Game
 "Lights Game" is a challenging and engaging puzzle game built with **Python** and **Pygame**. Your goal is to turn on all the lights by clicking on them. However, each light you click will also toggle the state of its adjacent lights, adding complexity to the puzzle!
@@ -7,7 +7,7 @@ The game features **multiple difficulty levels**, **animated glowing effects**, 
 
 ---
 
-## 🛠 Features
+##  Features
 ✔ Multiple difficulty levels (**3x3 to 12x12 grids**)
 ✔ Animated **glowing effects** for lights
 ✔ **Sound effects** and **background music**
@@ -19,8 +19,8 @@ The game features **multiple difficulty levels**, **animated glowing effects**, 
 
 ---
 
-## 📜 Code Example
-Here’s a snippet of the core logic that toggles the lights and their adjacent neighbors:
+##  Code Example
+Lights and their adjacent neighbors:
 
 ```python
 def toggle_light(lights, row, col, grid_size):
@@ -38,12 +38,7 @@ This function ensures that clicking on one light affects its surrounding neighbo
 
 ---
 
-## 📸 Screenshots
-*(Add GIFs or images here to showcase gameplay.)*
-
----
-
-## 🕹 How to Play
+##  How to Play
 1. Click on a light to toggle it and its adjacent lights.
 2. The goal is to **turn all the lights ON**.
 3. Earn **emeralds** by completing levels.
@@ -52,7 +47,7 @@ This function ensures that clicking on one light affects its surrounding neighbo
 
 ---
 
-## 🔧 Installation
+##  Installation
 
 ### Requirements
 - **Python 3.x**
@@ -81,14 +76,4 @@ python game.py
 
 ---
 
-## 🤝 Contributing
-Feel free to submit pull requests or report issues in the repository!
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
----
-
-Enjoy the game and happy coding! 🚀
+Enjoy the game and happy coding! 
