@@ -9,12 +9,19 @@ The game features **multiple difficulty levels**, **animated glowing effects**, 
 
 ##  Features
 ✔ Multiple difficulty levels (**3x3 to 12x12 grids**)
+
 ✔ Animated **glowing effects** for lights
+
 ✔ **Sound effects** and **background music**
+
 ✔ **Daily rewards** and a **spinning wheel** for bonuses
+
 ✔ **Virtual shop** with in-game currency (**emeralds**)
+
 ✔ Various **light shapes** (circle, square, triangle)
+
 ✔ **Hint system** to assist players
+
 ✔ **Elegant UI** with smooth transitions
 
 ---
