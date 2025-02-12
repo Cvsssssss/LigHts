@@ -3,14 +3,12 @@
 ## About the Game
 "Lights Game" is a challenging and engaging puzzle game built with **Python** and **Pygame**. Your goal is to turn on all the lights by clicking on them. However, each light you click will also toggle the state of its adjacent lights, adding complexity to the puzzle!
 
-The game features **multiple difficulty levels**, **animated glowing effects**, **interactive sound effects**, and **a dynamic background**. Earn **emeralds** as you progress, which can be used in the in-game shop for hints and rewards. Daily rewards and a spinning wheel add extra incentives to keep playing!
+The game features **multiple difficulty levels**, **interactive sound effects**, and **a dynamic background**. Earn **emeralds** as you progress, which can be used in the in-game shop for hints and rewards. Daily rewards and a spinning wheel add extra incentives to keep playing!
 
 ---
 
 ##  Features
 ✔ Multiple difficulty levels (**3x3 to 12x12 grids**)
-
-✔ Animated **glowing effects** for lights
 
 ✔ **Sound effects** and **background music**
 
@@ -18,7 +16,7 @@ The game features **multiple difficulty levels**, **animated glowing effects**, 
 
 ✔ **Virtual shop** with in-game currency (**emeralds**)
 
-✔ Various **light shapes** (circle, square, triangle)
+✔ **Lucky wheel** and **Mystery Box**
 
 ✔ **Hint system** to assist players
 
@@ -49,7 +47,7 @@ This function ensures that clicking on one light affects its surrounding neighbo
 1. Click on a light to toggle it and its adjacent lights.
 2. The goal is to **turn all the lights ON**.
 3. Earn **emeralds** by completing levels.
-4. Use emeralds to **buy hints** or **spin the wheel** for rewards.
+4. Use emeralds to **buy hints** or **mystery box** for rewards.
 5. Challenge yourself with **larger grids**!
 
 ---
